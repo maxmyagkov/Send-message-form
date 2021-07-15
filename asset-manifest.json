@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Send-message-form/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Send-message-form/static/js/main.8c70e7f2.chunk.js",
+    "main.js.map": "/Send-message-form/static/js/main.8c70e7f2.chunk.js.map",
+    "runtime-main.js": "/Send-message-form/static/js/runtime-main.feb7f168.js",
+    "runtime-main.js.map": "/Send-message-form/static/js/runtime-main.feb7f168.js.map",
+    "static/js/2.7e35de92.chunk.js": "/Send-message-form/static/js/2.7e35de92.chunk.js",
+    "static/js/2.7e35de92.chunk.js.map": "/Send-message-form/static/js/2.7e35de92.chunk.js.map",
+    "index.html": "/Send-message-form/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Send-message-form/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7e35de92.chunk.js.LICENSE.txt": "/Send-message-form/static/js/2.7e35de92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feb7f168.js",
+    "static/js/2.7e35de92.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8c70e7f2.chunk.js"
+  ]
+}
